@@ -1,3 +1,7 @@
+# credits
+
+Credits for this proxy goes to https://www.roblox.com/users/2470023/profile, I'm just hosting it on my own to prevent traffic n stuff.
+
 # rprxy
 
 Because ROBLOX does not allow HttpService requests to roblox.com an external proxy is needed for access to site APIs.
